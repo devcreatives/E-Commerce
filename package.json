@@ -7,7 +7,9 @@
     "dev": "node server.js -p $PORT",
     "build": "next build",
     "heroku-postbuild": "next build",
-    "start": "pm2-runtime start ecosystem.config.js --env production"
+    "start": "pm2-runtime start ecosystem.config.js --env production",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -43,9 +45,11 @@
     "react-stripe-checkout": "^2.6.3",
     "react-toastify": "^4.1.0",
     "request": "^2.87.0",
-    "stripe": "^6.1.1"
+    "stripe": "^6.1.1",
+    "snyk": "^1.189.0"
   },
   "engines": {
     "node": "6.11.x"
-  }
+  },
+  "snyk": true
 }
