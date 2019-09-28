@@ -1,7 +1,7 @@
 {
   "name": "ecommerce",
   "version": "1.0.0",
-  "description": "this is my e-commerce website",
+  "description": "ecommerce website",
   "main": "server.js",
   "scripts": {
     "dev": "node server.js -p $PORT",
