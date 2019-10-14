@@ -4,20 +4,20 @@ const bcrypt = require('bcrypt-nodejs');//Using Module bcrypt-nodejs for encrypt
 
 //create the new schema of userModel for user
 const userModel = new Schema({
-    username:{type: String,unique:true,lowercase:true},
-    password: String,
-    role:String
- 
+  username: { type: String, unique: true, lowercase: true },
+  password: String,
+  role: String
+
 })
 
 //before saving the userModel in schema encrypt user password 
-userModel.pre('save',function(next){
+userModel.pre('save', function (next) {
   const user = this;//invoke userModel in const user  
 
-  bcrypt.genSalt(10,function(err,salt){
-    if(err) return next(err);
-    bcrypt.hash(user.password,salt,null,function(err,hash){
-      if(err) return next(err)
+  bcrypt.genSalt(10, function (err, salt) {
+    if (err) return next(err);
+    bcrypt.hash(user.password, salt, null, function (err, hash) {
+      if (err) return next(err)
       user.password = hash;//store hash in user password
       next();//invoke next function
     })
@@ -25,9 +25,9 @@ userModel.pre('save',function(next){
 })
 
 //compare password
-userModel.methods.comparePassword = function(password){
-    return bcrypt.compareSync(password,this.password);
-    //Return either True or False
+userModel.methods.comparePassword = function (password) {
+  return bcrypt.compareSync(password, this.password);
+  //Return either True or False
 }
 
-module.exports = mongoose.model('Admin',userModel);//exporting the userModel as a key User
+module.exports = mongoose.model('Admin', userModel);//exporting the userModel as a key User
