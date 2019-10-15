@@ -31,7 +31,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://viveksharmaui.js.org"><img src="https://avatars1.githubusercontent.com/u/28563357?v=4" width="100px;" alt="Vivek Anand Sharma"/><br /><sub><b>Vivek Anand Sharma</b></sub></a><br /><a href="https://github.com/Techistan/E-Commerce/commits?author=viveksharmaui" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://viveksharmaui.js.org"><img src="https://avatars1.githubusercontent.com/u/28563357?v=4" width="100px;" alt="Vivek Anand Sharma"/><br /><sub><b>Vivek Anand Sharma</b></sub></a><br /><a href="https://github.com/Techistan/E-Commerce/commits?author=viveksharmaui" title="Tests">⚠️</a> <a href="https://github.com/Techistan/E-Commerce/commits?author=viveksharmaui" title="Code">💻</a> <a href="https://github.com/Techistan/E-Commerce/commits?author=viveksharmaui" title="Documentation">📖</a> <a href="#infra-viveksharmaui" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     <td align="center"><a href="http://linkedin.com/in/saeeddev"><img src="https://avatars3.githubusercontent.com/u/17095740?v=4" width="100px;" alt="sa-js"/><br /><sub><b>sa-js</b></sub></a><br /><a href="https://github.com/Techistan/E-Commerce/commits?author=sa-js" title="Code">💻</a></td>
   </tr>
 </table>
