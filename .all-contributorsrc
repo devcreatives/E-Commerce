@@ -14,7 +14,8 @@
         "test",
         "code",
         "doc",
-        "infra"
+        "infra",
+        "bug"
       ]
     },
     {
