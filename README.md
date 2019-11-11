@@ -1,9 +1,19 @@
-# E-Commerce Website 
+
+<h1 align="center">E-Commerce Website</h1>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+  <a href="#contributors"><img src="https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square"></a>
+  <a href="#issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+</p>
+
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+
 
 ## Introduction
 
-E-Commerce website written for those who want to experiment with MERN Stack and Next JS.
+E-Commerce website is written for those who want to experiment with MERN Stack and Next JS.
 
 ## What we are achieving to do
 
@@ -13,13 +23,13 @@ The purpose behind this is to create a best E-Commerce system.
 
 Our goal is to make this website as simple as possible and as user friendly as possible.
 
-## Found bug 
+## Report a bug
 
-If you found any bug please add that bug in [issue](https://github.com/Techistan/E-Commerce/issues) section. so that our team will solve bug as soon as possible.
+If you find any bug, please create an issue in [issues](https://github.com/Techistan/E-Commerce/issues) section. So that our team will fix them as soon as possible.
 
 ## How you can contribute
 
-This extension is open source anyone can contribute. we are always ready for new ideas and new functionalities so pull request are always welcome or see [CONTRIBUTING.md](https://github.com/Techistan/E-Commerce/blob/master/CONTRIBUTING.md) file for more information. 
+This extension is Open Source and anyone can contribute. We are always ready for new ideas and functionalities so pull requests are always welcome or see [CONTRIBUTING.md](./CONTRIBUTING.md) file for more information.
 
 
 **Happy Contributing**
@@ -39,4 +49,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
