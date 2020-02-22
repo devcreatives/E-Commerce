@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "E-Commerce" extension will be documented in this file.
-
-## E-Commerce [1.1.0] (Currently Working) (Unreleased)
-
+All notable changes to the "E-Commerce" will be documented in this file.
 
 ## E-Commerce [1.0.0] - 2019-09-01 (Released) 
 ### Added
