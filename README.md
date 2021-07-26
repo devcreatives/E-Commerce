@@ -38,14 +38,19 @@ This extension is Open Source and anyone can contribute. We are always ready for
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://viveksharmaui.js.org"><img src="https://avatars1.githubusercontent.com/u/28563357?v=4" width="100px;" alt="Vivek Anand Sharma"/><br /><sub><b>Vivek Anand Sharma</b></sub></a><br /><a href="https://github.com/Techistan/E-Commerce/commits?author=viveksharmaui" title="Tests">⚠️</a> <a href="https://github.com/Techistan/E-Commerce/commits?author=viveksharmaui" title="Code">💻</a> <a href="https://github.com/Techistan/E-Commerce/commits?author=viveksharmaui" title="Documentation">📖</a> <a href="#infra-viveksharmaui" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Techistan/E-Commerce/issues?q=author%3Aviveksharmaui" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="http://linkedin.com/in/saeeddev"><img src="https://avatars3.githubusercontent.com/u/17095740?v=4" width="100px;" alt="sa-js"/><br /><sub><b>sa-js</b></sub></a><br /><a href="https://github.com/Techistan/E-Commerce/commits?author=sa-js" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Mudassar045"><img src="https://avatars0.githubusercontent.com/u/24487349?v=4" width="100px;" alt="Mudassar Ali"/><br /><sub><b>Mudassar Ali</b></sub></a><br /><a href="https://github.com/Techistan/E-Commerce/commits?author=Mudassar045" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://viveksharmaui.js.org"><img src="https://avatars1.githubusercontent.com/u/28563357?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vivek Anand Sharma</b></sub></a><br /><a href="https://github.com/devcreatives/E-Commerce/commits?author=viveksharmaui" title="Tests">⚠️</a> <a href="https://github.com/devcreatives/E-Commerce/commits?author=viveksharmaui" title="Code">💻</a> <a href="https://github.com/devcreatives/E-Commerce/commits?author=viveksharmaui" title="Documentation">📖</a> <a href="#infra-viveksharmaui" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/devcreatives/E-Commerce/issues?q=author%3Aviveksharmaui" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://linkedin.com/in/saeeddev"><img src="https://avatars3.githubusercontent.com/u/17095740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sa-js</b></sub></a><br /><a href="https://github.com/devcreatives/E-Commerce/commits?author=sa-js" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Mudassar045"><img src="https://avatars0.githubusercontent.com/u/24487349?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mudassar Ali</b></sub></a><br /><a href="https://github.com/devcreatives/E-Commerce/commits?author=Mudassar045" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Alwaz"><img src="https://avatars.githubusercontent.com/u/49204941?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alwaz</b></sub></a><br /><a href="https://github.com/devcreatives/E-Commerce/commits?author=Alwaz" title="Code">💻</a></td>
   </tr>
 </table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 

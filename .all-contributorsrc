@@ -35,11 +35,21 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Alwaz",
+      "name": "Alwaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49204941?v=4",
+      "profile": "https://github.com/Alwaz",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "E-Commerce",
-  "projectOwner": "Techistan",
+  "projectOwner": "devcreatives",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
