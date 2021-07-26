@@ -367,7 +367,7 @@ server.post('/buyNow', function(req, res) {
   const parsedUrl = url.parse(req.url, true);
   handle(req, res, parsedUrl);
    });
-
+  
   server.listen(port, (err) => {
   if (err) throw err;
   console.log(`Listening on http://localhost:${port}`);
