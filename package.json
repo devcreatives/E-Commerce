@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/viveksharmaui/E-Commerce#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
     "cloudinary": "^1.11.0",
