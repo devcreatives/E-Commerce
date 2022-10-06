@@ -45,7 +45,7 @@
     "react-stripe-checkout": "^2.6.3",
     "react-toastify": "^7.0.4",
     "request": "^2.87.0",
-    "snyk": "^1.189.0",
+    "snyk": "^1.996.0",
     "stripe": "^8.165.0"
   },
   "engines": {
